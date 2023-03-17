@@ -33,3 +33,17 @@ figure{
 figcaption{
     margin-top: 10px;
 }
+
+#figuraMatriz{
+    width: 550px;
+    margin: 0 auto;
+}
+#figuraFamilia{
+    width: 375px;
+    float: right;
+}
+
+figure img{
+    height: inherit;
+    width: inherit;
+}
