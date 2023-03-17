@@ -6,10 +6,11 @@ body{
     
     
     font-family: Helvetica,"Lucida Grande", sans-serif;
+    color:#3d3d3d
 }
 h1{
     padding: 10px;
-    color: #3d3d3d;
+    
     background-color: #e1edf2;
 }
 figure{
